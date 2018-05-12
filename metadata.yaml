@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1841
 description: During the Revolutionary War, Anne Nelson journeys with Indians, is imprisoned,
   escapes, and helps capture an English privateer.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27377#A-Little-Maid-of-Massachusetts-Colony
 gutenberg_issued: '2008-12-01'
 gutenberg_type: Text
 identifiers:
