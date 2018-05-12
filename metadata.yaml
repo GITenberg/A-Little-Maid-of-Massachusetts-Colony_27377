@@ -1,0 +1,34 @@
+_repo: A-Little-Maid-of-Massachusetts-Colony_27377
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Smith, Wuanita
+    birthdate: 1866
+    deathdate: 1959
+    gutenberg_agent_id: '31882'
+    url: http://www.gutenberg.org/2009/agents/31882
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, Alice Turner
+    alias: Turner, Alice
+    gutenberg_agent_id: '1841'
+    url: http://www.gutenberg.org/2009/agents/1841
+description: During the Revolutionary War, Anne Nelson journeys with Indians, is imprisoned,
+  escapes, and helps capture an English privateer.
+gutenberg_issued: '2008-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27377'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcsh 'Massachusetts -- History -- Revolution, 1775-1783 -- Juvenile fiction'
+- !lcc 'PZ'
+title: A Little Maid of Massachusetts Colony
+url: http://www.gutenberg.org/ebooks/27377
